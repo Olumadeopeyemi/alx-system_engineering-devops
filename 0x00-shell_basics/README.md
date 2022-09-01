@@ -1,1 +1,1 @@
-a script that changes the working directory to the user’s home directory
+a script that deletes all files in the current working directory that end with the character ~
